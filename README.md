@@ -20,7 +20,7 @@ The goal was to develop a mobile application with React-native about a market pl
 - Decrease the quantity of items in the cart;
 - Display the total value of the items in the cart;
 
-![](https://github.com/jenifferazevedo/gostack-challenge05/blob/master/docs/mobile1.JPG)
+![](https://github.com/jenifferazevedo/gostack-challenge08/blob/master/docs/mobile1.JPG)
 
 ### Tests
 
@@ -38,4 +38,4 @@ The goal was to develop a mobile application with React-native about a market pl
 - [x] should store products in AsyncStorage while adding, incrementing and decrementing;
 - [x] should load products from AsyncStorage;
 
-![](https://github.com/jenifferazevedo/gostack-challenge05/blob/master/docs/mobile2.JPG)
+![](https://github.com/jenifferazevedo/gostack-challenge08/blob/master/docs/mobile2.JPG)
